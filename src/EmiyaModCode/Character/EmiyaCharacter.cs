@@ -24,21 +24,19 @@ public class EmiyaCharacter : PlaceholderCharacterModel
     [
         ModelDb.Card<Reinforce>(),
         ModelDb.Card<Reinforce>(),
-        ModelDb.Card<TraceSword>(),
-        ModelDb.Card<TraceSword>(),
-        ModelDb.Card<StructuralAnalysis>(),
-        ModelDb.Card<StructuralAnalysis>(),
-        ModelDb.Card<RinsAdvice>(),
-        ModelDb.Card<RinsAdvice>(),
+        ModelDb.Card<Reinforce>(),
+        ModelDb.Card<Reinforce>(),
         ModelDb.Card<Guard>(),
         ModelDb.Card<Guard>(),
+        ModelDb.Card<Guard>(),
+        ModelDb.Card<Guard>(),
+        ModelDb.Card<TraceSword>(),
+        ModelDb.Card<RinsAdvice>(),
     ];
 
     public override IReadOnlyList<RelicModel> StartingRelics => [ModelDb.Relic<MagicCircuit>()];
 
-    // Temporary: use Ironclad card pool until EmiyaMod has enough Common/Uncommon/Rare cards.
-    // Replace with ModelDb.CardPool<EmiyaCardPool>() once card set is complete.
-    public override CardPoolModel CardPool => ModelDb.CardPool<IroncladCardPool>();
+    public override CardPoolModel CardPool => ModelDb.CardPool<EmiyaCardPool>();
     public override RelicPoolModel RelicPool => ModelDb.RelicPool<EmiyaRelicPool>();
     public override PotionPoolModel PotionPool => ModelDb.PotionPool<EmiyaPotionPool>();
 }

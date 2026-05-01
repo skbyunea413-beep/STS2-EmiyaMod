@@ -7,7 +7,7 @@ namespace EmiyaMod;
 
 public sealed class StructuralAnalysis : EmiyaCard
 {
-    public StructuralAnalysis() : base(1, CardType.Skill, CardRarity.Basic, TargetType.Self) { }
+    public StructuralAnalysis() : base(1, CardType.Skill, CardRarity.Common, TargetType.Self) { }
 
     protected override IEnumerable<DynamicVar> CanonicalVars => [new BlockVar(5m, ValueProp.Unpowered)];
 
