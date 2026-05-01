@@ -1,0 +1,9 @@
+{
+  "EMIYAMOD-ABNORMAL_RESILIENCE_POWER.title": "비정상적인 회복력",
+  "EMIYAMOD-ABNORMAL_RESILIENCE_POWER.description": "매 턴 시작 시 잃은 체력의 {Amount}%를 회복합니다.",
+  "EMIYAMOD-ABNORMAL_RESILIENCE_POWER.smartDescription": "매 턴 시작 시 잃은 체력의 {Amount}%를 회복합니다.",
+
+  "EMIYAMOD-AVALON_POWER.title": "아발론",
+  "EMIYAMOD-AVALON_POWER.description": "모든 회복과 방어도가 2배가 됩니다.",
+  "EMIYAMOD-AVALON_POWER.smartDescription": "모든 회복과 방어도가 2배가 됩니다."
+}

@@ -42,5 +42,14 @@
   "EMIYAMOD-RULE_BREAKER.description": "피해를 {Damage} 줍니다. 적의 파워를 모두 제거합니다. 소멸.",
 
   "EMIYAMOD-GAE_BOLG.title": "게 볼그",
-  "EMIYAMOD-GAE_BOLG.description": "막을 수 없는 피해를 {Damage} 줍니다. 소멸."
+  "EMIYAMOD-GAE_BOLG.description": "막을 수 없는 피해를 {Damage} 줍니다. 소멸.",
+
+  "EMIYAMOD-EROSION.title": "잠식",
+  "EMIYAMOD-EROSION.description": "체력을 {HpLoss} 잃습니다. 가시를 {Thorns:diff()} 얻고 카드를 1장 뽑습니다.",
+
+  "EMIYAMOD-ABNORMAL_RESILIENCE.title": "비정상적인 회복력",
+  "EMIYAMOD-ABNORMAL_RESILIENCE.description": "매 턴 시작 시 잃은 체력의 {Percent:diff()}%를 회복합니다.",
+
+  "EMIYAMOD-AVALON.title": "아발론",
+  "EMIYAMOD-AVALON.description": "모든 회복과 방어도가 2배가 됩니다."
 }

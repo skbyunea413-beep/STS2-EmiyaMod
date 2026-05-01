@@ -32,6 +32,9 @@ public class EmiyaCharacter : PlaceholderCharacterModel
         ModelDb.Card<Guard>(),
         ModelDb.Card<TraceSword>(),
         ModelDb.Card<RinsAdvice>(),
+        ModelDb.Card<Erosion>(),
+        ModelDb.Card<AbnormalResilience>(),
+        ModelDb.Card<Avalon>(),
     ];
 
     public override IReadOnlyList<RelicModel> StartingRelics => [ModelDb.Relic<MagicCircuit>()];

@@ -1,0 +1,9 @@
+{
+  "EMIYAMOD-ABNORMAL_RESILIENCE_POWER.title": "Abnormal Resilience",
+  "EMIYAMOD-ABNORMAL_RESILIENCE_POWER.description": "At the start of your turn, heal {Amount}% of your missing HP.",
+  "EMIYAMOD-ABNORMAL_RESILIENCE_POWER.smartDescription": "At the start of your turn, heal {Amount}% of your missing HP.",
+
+  "EMIYAMOD-AVALON_POWER.title": "Avalon",
+  "EMIYAMOD-AVALON_POWER.description": "All healing and Block are doubled.",
+  "EMIYAMOD-AVALON_POWER.smartDescription": "All healing and Block are doubled."
+}

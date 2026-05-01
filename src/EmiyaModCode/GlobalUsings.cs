@@ -10,5 +10,7 @@ global using MegaCrit.Sts2.Core.Entities.Creatures;
 global using MegaCrit.Sts2.Core.GameActions.Multiplayer;
 global using MegaCrit.Sts2.Core.Localization.DynamicVars;
 global using MegaCrit.Sts2.Core.Models;
+global using MegaCrit.Sts2.Core.Entities.Players;
+global using MegaCrit.Sts2.Core.Entities.Powers;
 global using MegaCrit.Sts2.Core.Models.Powers;
 global using MegaCrit.Sts2.Core.ValueProps;
