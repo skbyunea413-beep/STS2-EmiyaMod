@@ -1,10 +1,16 @@
 {
-    "EMIYAMOD-EMIYA_CHARACTER": {
-        "title": "에미야 시로",
-        "description": "영웅의 이상을 추적하는 소년. 투영과 추적으로 ★을 소모하여 보구를 사용합니다.",
-        "titleObject": "에미야 시로",
-        "pronounSubject": "그",
-        "pronounObject": "그를",
-        "pronounPossessive": "그의"
-    }
+  "EMIYAMOD-EMIYA_CHARACTER.title": "에미야 시로",
+  "EMIYAMOD-EMIYA_CHARACTER.titleObject": "에미야 시로",
+  "EMIYAMOD-EMIYA_CHARACTER.description": "영웅의 이상을 추적하는 소년. 투영과 추적으로 ★을 소모하여 보구를 사용합니다.",
+  "EMIYAMOD-EMIYA_CHARACTER.pronounSubject": "그",
+  "EMIYAMOD-EMIYA_CHARACTER.pronounObject": "그를",
+  "EMIYAMOD-EMIYA_CHARACTER.pronounPossessive": "그의",
+  "EMIYAMOD-EMIYA_CHARACTER.possessiveAdjective": "그의",
+  "EMIYAMOD-EMIYA_CHARACTER.goldMonologue": "금으로 검을 살 수 있지만... 그런 방식에 의지하고 싶지 않다.",
+  "EMIYAMOD-EMIYA_CHARACTER.eventDeathPrevention": "에미야는 마지막 순간 보구를 투영해 치명타를 흡수합니다.",
+  "EMIYAMOD-EMIYA_CHARACTER.aromaPrinciple": "쇠 부스러기와 검 기름 냄새.",
+  "EMIYAMOD-EMIYA_CHARACTER.cardsModifierTitle": "추적 무기고",
+  "EMIYAMOD-EMIYA_CHARACTER.cardsModifierDescription": "소년의 끝없는 이상으로 단조된 무기들.",
+  "EMIYAMOD-EMIYA_CHARACTER.banter.alive.endTurnPing": "...",
+  "EMIYAMOD-EMIYA_CHARACTER.banter.dead.endTurnPing": "..."
 }

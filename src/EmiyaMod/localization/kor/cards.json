@@ -1,122 +1,46 @@
 {
-    "EMIYAMOD-REINFORCE": {
-        "title": "강화",
-        "description": "{Damage} 피해를 입힙니다."
-    },
-    "EMIYAMOD-REINFORCE_UPGRADED": {
-        "title": "강화+",
-        "description": "{Damage} 피해를 입힙니다."
-    },
-    "EMIYAMOD-TRACE_SWORD": {
-        "title": "트레이스, 온",
-        "description": "{Damage} 피해를 입힙니다. 소멸."
-    },
-    "EMIYAMOD-TRACE_SWORD_UPGRADED": {
-        "title": "트레이스, 온+",
-        "description": "{Damage} 피해를 입힙니다. 소멸."
-    },
-    "EMIYAMOD-RINS_ADVICE": {
-        "title": "린의 조언",
-        "description": "카드 {Cards}장을 뽑습니다."
-    },
-    "EMIYAMOD-RINS_ADVICE_UPGRADED": {
-        "title": "린의 조언+",
-        "description": "카드 {Cards}장을 뽑습니다."
-    },
-    "EMIYAMOD-GUARD": {
-        "title": "수비",
-        "description": "{Block} 블록을 얻습니다."
-    },
-    "EMIYAMOD-GUARD_UPGRADED": {
-        "title": "수비+",
-        "description": "{Block} 블록을 얻습니다."
-    },
-    "EMIYAMOD-STRUCTURAL_ANALYSIS": {
-        "title": "구조 분석",
-        "description": "{Block} 블록을 얻습니다. 카드 1장을 뽑습니다."
-    },
-    "EMIYAMOD-STRUCTURAL_ANALYSIS_UPGRADED": {
-        "title": "구조 분석+",
-        "description": "{Block} 블록을 얻습니다. 카드 1장을 뽑습니다."
-    },
-    "EMIYAMOD-RAPID_TRACE": {
-        "title": "속성 추적",
-        "description": "{Damage} 피해를 입힙니다. 소멸."
-    },
-    "EMIYAMOD-RAPID_TRACE_UPGRADED": {
-        "title": "속성 추적+",
-        "description": "{Damage} 피해를 입힙니다. 소멸."
-    },
-    "EMIYAMOD-PROJECTION": {
-        "title": "투영",
-        "description": "{Damage} 피해를 입힙니다. 취약 1을 부여합니다."
-    },
-    "EMIYAMOD-PROJECTION_UPGRADED": {
-        "title": "투영+",
-        "description": "{Damage} 피해를 입힙니다. 취약 1을 부여합니다."
-    },
-    "EMIYAMOD-KANSHOU_BAKUYA": {
-        "title": "간쇼우·바쿠야",
-        "description": "{Damage} 피해를 2회 입힙니다."
-    },
-    "EMIYAMOD-KANSHOU_BAKUYA_UPGRADED": {
-        "title": "간쇼우·바쿠야+",
-        "description": "{Damage} 피해를 2회 입힙니다."
-    },
-    "EMIYAMOD-REINFORCEMENT": {
-        "title": "신체 강화",
-        "description": "힘 1을 얻습니다."
-    },
-    "EMIYAMOD-REINFORCEMENT_UPGRADED": {
-        "title": "신체 강화+",
-        "description": "힘 1을 얻습니다."
-    },
-    "EMIYAMOD-CALADBOL_I_I": {
-        "title": "칼라드볼그 II",
-        "description": "{Damage} 피해를 입힙니다. 취약 2를 부여합니다. 소멸."
-    },
-    "EMIYAMOD-CALADBOL_I_I_UPGRADED": {
-        "title": "칼라드볼그 II+",
-        "description": "{Damage} 피해를 입힙니다. 취약 2를 부여합니다. 소멸."
-    },
-    "EMIYAMOD-HRUNTING": {
-        "title": "흐룬팅",
-        "description": "{Damage} 피해를 2회 입힙니다. 소멸."
-    },
-    "EMIYAMOD-HRUNTING_UPGRADED": {
-        "title": "흐룬팅+",
-        "description": "{Damage} 피해를 2회 입힙니다. 소멸."
-    },
-    "EMIYAMOD-ARIA_OF_THE_SOUL": {
-        "title": "영혼의 아리아",
-        "description": "카드 {Cards}장을 뽑습니다. ★ {Stars}을 획득합니다."
-    },
-    "EMIYAMOD-ARIA_OF_THE_SOUL_UPGRADED": {
-        "title": "영혼의 아리아+",
-        "description": "카드 {Cards}장을 뽑습니다. ★ {Stars}을 획득합니다."
-    },
-    "EMIYAMOD-CALIBURN": {
-        "title": "캘리번",
-        "description": "{Damage} 피해를 입힙니다. 소멸."
-    },
-    "EMIYAMOD-CALIBURN_UPGRADED": {
-        "title": "캘리번+",
-        "description": "{Damage} 피해를 입힙니다. 소멸."
-    },
-    "EMIYAMOD-RULE_BREAKER": {
-        "title": "룰 브레이커",
-        "description": "{Damage} 피해를 입힙니다. 적의 모든 파워를 제거합니다. 소멸."
-    },
-    "EMIYAMOD-RULE_BREAKER_UPGRADED": {
-        "title": "룰 브레이커+",
-        "description": "{Damage} 피해를 입힙니다. 적의 모든 파워를 제거합니다. 소멸."
-    },
-    "EMIYAMOD-GAE_BOLG": {
-        "title": "게 볼그",
-        "description": "{Damage} 블록 불가 피해를 입힙니다. 소멸."
-    },
-    "EMIYAMOD-GAE_BOLG_UPGRADED": {
-        "title": "게 볼그+",
-        "description": "{Damage} 블록 불가 피해를 입힙니다. 소멸."
-    }
+  "EMIYAMOD-REINFORCE.title": "타격",
+  "EMIYAMOD-REINFORCE.description": "피해를 {Damage} 줍니다.",
+
+  "EMIYAMOD-GUARD.title": "수비",
+  "EMIYAMOD-GUARD.description": "방어도를 {Block} 얻습니다.",
+
+  "EMIYAMOD-TRACE_SWORD.title": "트레이스, 온",
+  "EMIYAMOD-TRACE_SWORD.description": "피해를 {Damage} 줍니다. 소멸.",
+
+  "EMIYAMOD-RINS_ADVICE.title": "린의 조언",
+  "EMIYAMOD-RINS_ADVICE.description": "카드를 {Cards}장 뽑습니다.",
+
+  "EMIYAMOD-STRUCTURAL_ANALYSIS.title": "구조 분석",
+  "EMIYAMOD-STRUCTURAL_ANALYSIS.description": "방어도를 {Block} 얻습니다. 카드를 1장 뽑습니다.",
+
+  "EMIYAMOD-RAPID_TRACE.title": "속성 추적",
+  "EMIYAMOD-RAPID_TRACE.description": "피해를 {Damage} 줍니다. 소멸.",
+
+  "EMIYAMOD-PROJECTION.title": "투영",
+  "EMIYAMOD-PROJECTION.description": "피해를 {Damage} 줍니다. 취약을 1 부여합니다.",
+
+  "EMIYAMOD-KANSHOU_BAKUYA.title": "간쇼우·바쿠야",
+  "EMIYAMOD-KANSHOU_BAKUYA.description": "피해를 {Damage} 2회 줍니다.",
+
+  "EMIYAMOD-REINFORCEMENT.title": "신체 강화",
+  "EMIYAMOD-REINFORCEMENT.description": "힘을 1 얻습니다.",
+
+  "EMIYAMOD-CALADBOL_I_I.title": "칼라드볼그 II",
+  "EMIYAMOD-CALADBOL_I_I.description": "피해를 {Damage} 줍니다. 취약을 2 부여합니다. 소멸.",
+
+  "EMIYAMOD-HRUNTING.title": "흐룬팅",
+  "EMIYAMOD-HRUNTING.description": "피해를 {Damage} 2회 줍니다. 소멸.",
+
+  "EMIYAMOD-ARIA_OF_THE_SOUL.title": "영혼의 아리아",
+  "EMIYAMOD-ARIA_OF_THE_SOUL.description": "카드를 {Cards}장 뽑습니다. ★를 {Stars} 얻습니다.",
+
+  "EMIYAMOD-CALIBURN.title": "캘리번",
+  "EMIYAMOD-CALIBURN.description": "피해를 {Damage} 줍니다. 소멸.",
+
+  "EMIYAMOD-RULE_BREAKER.title": "룰 브레이커",
+  "EMIYAMOD-RULE_BREAKER.description": "피해를 {Damage} 줍니다. 적의 파워를 모두 제거합니다. 소멸.",
+
+  "EMIYAMOD-GAE_BOLG.title": "게 볼그",
+  "EMIYAMOD-GAE_BOLG.description": "막을 수 없는 피해를 {Damage} 줍니다. 소멸."
 }

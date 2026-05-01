@@ -1,4 +1,4 @@
-using BaseLib.Utils;
+using MegaCrit.Sts2.Core.Modding;
 
 namespace EmiyaMod;
 
@@ -10,6 +10,5 @@ public class MainFile
 
     public static void Initialize()
     {
-        EmiyaCardTags.Register();
     }
 }

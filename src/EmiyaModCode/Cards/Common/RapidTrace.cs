@@ -1,10 +1,8 @@
 namespace EmiyaMod;
 
-public sealed class RapidTrace : EmiyaCard
+public sealed class RapidTrace : EmiyaCard, ITracedCard
 {
     public RapidTrace() : base(0, CardType.Attack, CardRarity.Common, TargetType.AnyEnemy) { }
-
-    public override IEnumerable<CardTag> Tags => [EmiyaCardTags.Traced];
 
     protected override IEnumerable<DynamicVar> CanonicalVars => [new DamageVar(6m, ValueProp.Move)];
 
@@ -15,7 +13,7 @@ public sealed class RapidTrace : EmiyaCard
         await DamageCmd.Attack(base.DynamicVars.Damage.BaseValue)
             .FromCard(this)
             .Targeting(cardPlay.Target)
-            .WithHitFx("vfx/vfx_attack_blunt")
+            .WithHitFx("vfx/sovereign_blade")
             .Execute(ctx);
     }
 

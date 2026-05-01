@@ -5,13 +5,11 @@ using MegaCrit.Sts2.Core.ValueProps;
 
 namespace EmiyaMod;
 
-public sealed class TraceSword : EmiyaCard
+public sealed class TraceSword : EmiyaCard, ITracedCard
 {
     public TraceSword() : base(1, CardType.Attack, CardRarity.Basic, TargetType.AnyEnemy) { }
 
     protected override IEnumerable<DynamicVar> CanonicalVars => [new DamageVar(8m, ValueProp.Move)];
-
-    public override IEnumerable<CardTag> Tags => [EmiyaCardTags.Traced];
 
     protected override PileType GetResultPileType() => PileType.Exhaust;
 
@@ -20,7 +18,7 @@ public sealed class TraceSword : EmiyaCard
         await DamageCmd.Attack(base.DynamicVars.Damage.BaseValue)
             .FromCard(this)
             .Targeting(cardPlay.Target)
-            .WithHitFx("vfx/vfx_attack_heavy")
+            .WithHitFx("vfx/sovereign_blade")
             .Execute(ctx);
     }
 

@@ -1,13 +1,6 @@
-using MegaCrit.Sts2.Core.Entities.Cards;
-
 namespace EmiyaMod;
 
-public static class EmiyaCardTags
-{
-    public static CardTag Traced { get; private set; }
-
-    public static void Register()
-    {
-        Traced = CustomContentDictionary.AddEnum<CardTag>("EmiyaMod_Traced");
-    }
-}
+// CardTag is a plain enum - cannot add dynamic values.
+// We use a marker interface on cards instead.
+// Check card.GetType() or custom interfaces to identify Traced cards.
+public interface ITracedCard { }

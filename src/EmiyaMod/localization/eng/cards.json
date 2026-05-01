@@ -1,122 +1,46 @@
 {
-    "EMIYAMOD-REINFORCE": {
-        "title": "Reinforce",
-        "description": "Deal {Damage} damage."
-    },
-    "EMIYAMOD-REINFORCE_UPGRADED": {
-        "title": "Reinforce+",
-        "description": "Deal {Damage} damage."
-    },
-    "EMIYAMOD-TRACE_SWORD": {
-        "title": "Trace, On",
-        "description": "Deal {Damage} damage. Exhaust."
-    },
-    "EMIYAMOD-TRACE_SWORD_UPGRADED": {
-        "title": "Trace, On+",
-        "description": "Deal {Damage} damage. Exhaust."
-    },
-    "EMIYAMOD-RINS_ADVICE": {
-        "title": "Rin's Advice",
-        "description": "Draw {Cards} cards."
-    },
-    "EMIYAMOD-RINS_ADVICE_UPGRADED": {
-        "title": "Rin's Advice+",
-        "description": "Draw {Cards} cards."
-    },
-    "EMIYAMOD-GUARD": {
-        "title": "Guard",
-        "description": "Gain {Block} block."
-    },
-    "EMIYAMOD-GUARD_UPGRADED": {
-        "title": "Guard+",
-        "description": "Gain {Block} block."
-    },
-    "EMIYAMOD-STRUCTURAL_ANALYSIS": {
-        "title": "Structural Analysis",
-        "description": "Gain {Block} block. Draw 1 card."
-    },
-    "EMIYAMOD-STRUCTURAL_ANALYSIS_UPGRADED": {
-        "title": "Structural Analysis+",
-        "description": "Gain {Block} block. Draw 1 card."
-    },
-    "EMIYAMOD-RAPID_TRACE": {
-        "title": "Rapid Trace",
-        "description": "Deal {Damage} damage. Exhaust."
-    },
-    "EMIYAMOD-RAPID_TRACE_UPGRADED": {
-        "title": "Rapid Trace+",
-        "description": "Deal {Damage} damage. Exhaust."
-    },
-    "EMIYAMOD-PROJECTION": {
-        "title": "Projection",
-        "description": "Deal {Damage} damage. Apply 1 Vulnerable."
-    },
-    "EMIYAMOD-PROJECTION_UPGRADED": {
-        "title": "Projection+",
-        "description": "Deal {Damage} damage. Apply 1 Vulnerable."
-    },
-    "EMIYAMOD-KANSHOU_BAKUYA": {
-        "title": "Kanshou & Bakuya",
-        "description": "Deal {Damage} damage twice."
-    },
-    "EMIYAMOD-KANSHOU_BAKUYA_UPGRADED": {
-        "title": "Kanshou & Bakuya+",
-        "description": "Deal {Damage} damage twice."
-    },
-    "EMIYAMOD-REINFORCEMENT": {
-        "title": "Reinforcement",
-        "description": "Gain 1 Strength."
-    },
-    "EMIYAMOD-REINFORCEMENT_UPGRADED": {
-        "title": "Reinforcement+",
-        "description": "Gain 1 Strength."
-    },
-    "EMIYAMOD-CALADBOL_I_I": {
-        "title": "Caladbolg II",
-        "description": "Deal {Damage} damage. Apply 2 Vulnerable. Exhaust."
-    },
-    "EMIYAMOD-CALADBOL_I_I_UPGRADED": {
-        "title": "Caladbolg II+",
-        "description": "Deal {Damage} damage. Apply 2 Vulnerable. Exhaust."
-    },
-    "EMIYAMOD-HRUNTING": {
-        "title": "Hrunting",
-        "description": "Deal {Damage} damage twice. Exhaust."
-    },
-    "EMIYAMOD-HRUNTING_UPGRADED": {
-        "title": "Hrunting+",
-        "description": "Deal {Damage} damage twice. Exhaust."
-    },
-    "EMIYAMOD-ARIA_OF_THE_SOUL": {
-        "title": "Aria of the Soul",
-        "description": "Draw {Cards} cards. Gain {Stars} ★."
-    },
-    "EMIYAMOD-ARIA_OF_THE_SOUL_UPGRADED": {
-        "title": "Aria of the Soul+",
-        "description": "Draw {Cards} cards. Gain {Stars} ★."
-    },
-    "EMIYAMOD-CALIBURN": {
-        "title": "Caliburn",
-        "description": "Deal {Damage} damage. Exhaust."
-    },
-    "EMIYAMOD-CALIBURN_UPGRADED": {
-        "title": "Caliburn+",
-        "description": "Deal {Damage} damage. Exhaust."
-    },
-    "EMIYAMOD-RULE_BREAKER": {
-        "title": "Rule Breaker",
-        "description": "Deal {Damage} damage. Remove all enemy powers. Exhaust."
-    },
-    "EMIYAMOD-RULE_BREAKER_UPGRADED": {
-        "title": "Rule Breaker+",
-        "description": "Deal {Damage} damage. Remove all enemy powers. Exhaust."
-    },
-    "EMIYAMOD-GAE_BOLG": {
-        "title": "Gáe Bolg",
-        "description": "Deal {Damage} unblockable damage. Exhaust."
-    },
-    "EMIYAMOD-GAE_BOLG_UPGRADED": {
-        "title": "Gáe Bolg+",
-        "description": "Deal {Damage} unblockable damage. Exhaust."
-    }
+  "EMIYAMOD-REINFORCE.title": "Reinforce",
+  "EMIYAMOD-REINFORCE.description": "Deal {Damage} damage.",
+
+  "EMIYAMOD-GUARD.title": "Guard",
+  "EMIYAMOD-GUARD.description": "Gain {Block} Block.",
+
+  "EMIYAMOD-TRACE_SWORD.title": "Trace, On",
+  "EMIYAMOD-TRACE_SWORD.description": "Deal {Damage} damage. Exhaust.",
+
+  "EMIYAMOD-RINS_ADVICE.title": "Rin's Advice",
+  "EMIYAMOD-RINS_ADVICE.description": "Draw {Cards} cards.",
+
+  "EMIYAMOD-STRUCTURAL_ANALYSIS.title": "Structural Analysis",
+  "EMIYAMOD-STRUCTURAL_ANALYSIS.description": "Gain {Block} Block. Draw 1 card.",
+
+  "EMIYAMOD-RAPID_TRACE.title": "Rapid Trace",
+  "EMIYAMOD-RAPID_TRACE.description": "Deal {Damage} damage. Exhaust.",
+
+  "EMIYAMOD-PROJECTION.title": "Projection",
+  "EMIYAMOD-PROJECTION.description": "Deal {Damage} damage. Apply 1 Vulnerable.",
+
+  "EMIYAMOD-KANSHOU_BAKUYA.title": "Kanshou & Bakuya",
+  "EMIYAMOD-KANSHOU_BAKUYA.description": "Deal {Damage} damage twice.",
+
+  "EMIYAMOD-REINFORCEMENT.title": "Reinforcement",
+  "EMIYAMOD-REINFORCEMENT.description": "Gain 1 Strength.",
+
+  "EMIYAMOD-CALADBOL_I_I.title": "Caladbolg II",
+  "EMIYAMOD-CALADBOL_I_I.description": "Deal {Damage} damage. Apply 2 Vulnerable. Exhaust.",
+
+  "EMIYAMOD-HRUNTING.title": "Hrunting",
+  "EMIYAMOD-HRUNTING.description": "Deal {Damage} damage twice. Exhaust.",
+
+  "EMIYAMOD-ARIA_OF_THE_SOUL.title": "Aria of the Soul",
+  "EMIYAMOD-ARIA_OF_THE_SOUL.description": "Draw {Cards} cards. Gain {Stars} ★.",
+
+  "EMIYAMOD-CALIBURN.title": "Caliburn",
+  "EMIYAMOD-CALIBURN.description": "Deal {Damage} damage. Exhaust.",
+
+  "EMIYAMOD-RULE_BREAKER.title": "Rule Breaker",
+  "EMIYAMOD-RULE_BREAKER.description": "Deal {Damage} damage. Remove all enemy powers. Exhaust.",
+
+  "EMIYAMOD-GAE_BOLG.title": "Gáe Bolg",
+  "EMIYAMOD-GAE_BOLG.description": "Deal {Damage} unblockable damage. Exhaust."
 }

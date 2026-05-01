@@ -13,10 +13,10 @@ public class EmiyaCharacter : PlaceholderCharacterModel
     public const string CharacterId = "EmiyaMod";
     public static readonly Color CharColor = new Color("#ff7700");
 
-    protected override string PlaceholderID => "ironclad";
+    public override string PlaceholderID => "regent";
 
     public override Color NameColor => CharColor;
-    public override CharacterGender Gender => CharacterGender.Male;
+    public override CharacterGender Gender => CharacterGender.Masculine;
     public override int StartingHp => 75;
     public override bool ShouldAlwaysShowStarCounter => true;
 

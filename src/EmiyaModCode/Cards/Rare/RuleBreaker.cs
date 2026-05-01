@@ -1,11 +1,10 @@
 namespace EmiyaMod;
 
-public sealed class RuleBreaker : EmiyaCard
+public sealed class RuleBreaker : EmiyaCard, ITracedCard
 {
     public RuleBreaker() : base(1, CardType.Attack, CardRarity.Rare, TargetType.AnyEnemy) { }
 
     public override int CanonicalStarCost => 2;
-    public override IEnumerable<CardTag> Tags => [EmiyaCardTags.Traced];
     protected override PileType GetResultPileType() => PileType.Exhaust;
 
     protected override IEnumerable<DynamicVar> CanonicalVars => [new DamageVar(10m, ValueProp.Move)];
@@ -14,7 +13,7 @@ public sealed class RuleBreaker : EmiyaCard
     {
         await DamageCmd.Attack(base.DynamicVars.Damage.BaseValue)
             .FromCard(this).Targeting(cardPlay.Target)
-            .WithHitFx("vfx/vfx_attack_heavy")
+            .WithHitFx("vfx/sovereign_blade")
             .Execute(ctx);
 
         if (cardPlay.Target != null)

@@ -1,7 +1,5 @@
 {
-    "EMIYAMOD-MAGIC_CIRCUIT": {
-        "title": "Magic Circuit",
-        "description": "At the start of each combat, gain {Stars} ★.",
-        "flavor": "A pathway to mysteries. Even one circuit is worth fighting for."
-    }
+  "EMIYAMOD-MAGIC_CIRCUIT.title": "Magic Circuit",
+  "EMIYAMOD-MAGIC_CIRCUIT.description": "At the start of each combat, gain {Stars} ★.",
+  "EMIYAMOD-MAGIC_CIRCUIT.flavor": "A pathway to mysteries. Even one circuit is worth fighting for."
 }

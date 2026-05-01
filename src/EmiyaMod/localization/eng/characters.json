@@ -1,10 +1,16 @@
 {
-    "EMIYAMOD-EMIYA_CHARACTER": {
-        "title": "Emiya Shirou",
-        "description": "A boy who traces the ideals of heroes. Uses Projection and Tracing to wield Noble Phantasms at the cost of ★.",
-        "titleObject": "Emiya Shirou",
-        "pronounSubject": "he",
-        "pronounObject": "him",
-        "pronounPossessive": "his"
-    }
+  "EMIYAMOD-EMIYA_CHARACTER.title": "Emiya Shirou",
+  "EMIYAMOD-EMIYA_CHARACTER.titleObject": "Emiya Shirou",
+  "EMIYAMOD-EMIYA_CHARACTER.description": "A boy who traces the ideals of heroes. Uses Projection and Tracing to wield Noble Phantasms at the cost of ★.",
+  "EMIYAMOD-EMIYA_CHARACTER.pronounSubject": "he",
+  "EMIYAMOD-EMIYA_CHARACTER.pronounObject": "him",
+  "EMIYAMOD-EMIYA_CHARACTER.pronounPossessive": "his",
+  "EMIYAMOD-EMIYA_CHARACTER.possessiveAdjective": "his",
+  "EMIYAMOD-EMIYA_CHARACTER.goldMonologue": "Gold can buy a lot of swords — not that I'd rely on that.",
+  "EMIYAMOD-EMIYA_CHARACTER.eventDeathPrevention": "Emiya traces a Noble Phantasm at the last moment — the blade absorbs the killing blow.",
+  "EMIYAMOD-EMIYA_CHARACTER.aromaPrinciple": "Iron shavings and sword oil.",
+  "EMIYAMOD-EMIYA_CHARACTER.cardsModifierTitle": "Traced Arsenal",
+  "EMIYAMOD-EMIYA_CHARACTER.cardsModifierDescription": "Weapons forged from a boy's endless ideal.",
+  "EMIYAMOD-EMIYA_CHARACTER.banter.alive.endTurnPing": "...",
+  "EMIYAMOD-EMIYA_CHARACTER.banter.dead.endTurnPing": "..."
 }
