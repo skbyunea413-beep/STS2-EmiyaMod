@@ -51,5 +51,8 @@
   "EMIYAMOD-ABNORMAL_RESILIENCE.description": "매 턴 시작 시 잃은 체력의 {Percent:diff()}%를 회복합니다.",
 
   "EMIYAMOD-AVALON.title": "아발론",
-  "EMIYAMOD-AVALON.description": "모든 회복과 방어도가 2배가 됩니다."
+  "EMIYAMOD-AVALON.description": "모든 회복과 방어도가 2배가 됩니다.",
+
+  "EMIYAMOD-NINE_LIVES.title": "나인 라이브즈",
+  "EMIYAMOD-NINE_LIVES.description": "모든 적에게 피해를 {Damage} 9회 줍니다. '잠식'을 3장 버린 카드 더미에 섞어 넣습니다."
 }

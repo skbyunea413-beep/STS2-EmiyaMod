@@ -51,5 +51,8 @@
   "EMIYAMOD-ABNORMAL_RESILIENCE.description": "At the start of your turn, heal {Percent:diff()}% of your missing HP.",
 
   "EMIYAMOD-AVALON.title": "Avalon",
-  "EMIYAMOD-AVALON.description": "All healing and Block are doubled."
+  "EMIYAMOD-AVALON.description": "All healing and Block are doubled.",
+
+  "EMIYAMOD-NINE_LIVES.title": "Nine Lives",
+  "EMIYAMOD-NINE_LIVES.description": "Deal {Damage} damage to ALL enemies 9 times. Shuffle 3 Erosions into your discard pile."
 }
