@@ -45,7 +45,7 @@
   "EMIYAMOD-GAE_BOLG.description": "Deal {Damage} unblockable damage. Exhaust.",
 
   "EMIYAMOD-EROSION.title": "Erosion",
-  "EMIYAMOD-EROSION.description": "Lose {HpLoss} HP. Gain {Thorns:diff()} Thorns. Draw 1 card.",
+  "EMIYAMOD-EROSION.description": "When drawn, play automatically. Lose {HpLoss} HP. Gain {Thorns:diff()} Thorns. Draw 1 card.",
 
   "EMIYAMOD-ABNORMAL_RESILIENCE.title": "Abnormal Resilience",
   "EMIYAMOD-ABNORMAL_RESILIENCE.description": "At the start of your turn, heal {Percent:diff()}% of your missing HP.",

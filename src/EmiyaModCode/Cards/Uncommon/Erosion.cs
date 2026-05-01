@@ -16,6 +16,12 @@ public sealed class Erosion : EmiyaCard
         await CardPileCmd.Draw(ctx, 1m, base.Owner);
     }
 
+    public override async Task AfterCardDrawn(PlayerChoiceContext ctx, CardModel card, bool fromHandDraw)
+    {
+        if (card != this) return;
+        await CardCmd.AutoPlay(ctx, this, null);
+    }
+
     protected override void OnUpgrade()
     {
         base.DynamicVars["Thorns"].UpgradeValueBy(1m);
