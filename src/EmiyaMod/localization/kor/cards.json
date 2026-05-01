@@ -1,0 +1,42 @@
+{
+    "EMIYAMOD-REINFORCE": {
+        "title": "강화",
+        "description": "{Damage} 피해를 입힙니다."
+    },
+    "EMIYAMOD-REINFORCE_UPGRADED": {
+        "title": "강화+",
+        "description": "{Damage} 피해를 입힙니다."
+    },
+    "EMIYAMOD-TRACE_SWORD": {
+        "title": "트레이스, 온",
+        "description": "{Damage} 피해를 입힙니다. 소멸."
+    },
+    "EMIYAMOD-TRACE_SWORD_UPGRADED": {
+        "title": "트레이스, 온+",
+        "description": "{Damage} 피해를 입힙니다. 소멸."
+    },
+    "EMIYAMOD-STRUCTURAL_ANALYSIS": {
+        "title": "구조 분석",
+        "description": "{Block} 블록을 얻습니다. 카드 1장을 뽑습니다."
+    },
+    "EMIYAMOD-STRUCTURAL_ANALYSIS_UPGRADED": {
+        "title": "구조 분석+",
+        "description": "{Block} 블록을 얻습니다. 카드 1장을 뽑습니다."
+    },
+    "EMIYAMOD-RINS_ADVICE": {
+        "title": "린의 조언",
+        "description": "카드 {Cards}장을 뽑습니다."
+    },
+    "EMIYAMOD-RINS_ADVICE_UPGRADED": {
+        "title": "린의 조언+",
+        "description": "카드 {Cards}장을 뽑습니다."
+    },
+    "EMIYAMOD-GUARD": {
+        "title": "수비",
+        "description": "{Block} 블록을 얻습니다."
+    },
+    "EMIYAMOD-GUARD_UPGRADED": {
+        "title": "수비+",
+        "description": "{Block} 블록을 얻습니다."
+    }
+}

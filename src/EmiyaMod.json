@@ -1,0 +1,11 @@
+{
+  "id": "EmiyaMod",
+  "name": "Emiya Shirou",
+  "author": "nagis",
+  "description": "Emiya Shirou — a boy who traces his ideals. Playable character for Slay the Spire 2.",
+  "version": "v0.1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": ["BaseLib"],
+  "affects_gameplay": true
+}

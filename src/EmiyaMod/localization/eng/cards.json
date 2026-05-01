@@ -1,0 +1,42 @@
+{
+    "EMIYAMOD-REINFORCE": {
+        "title": "Reinforce",
+        "description": "Deal {Damage} damage."
+    },
+    "EMIYAMOD-REINFORCE_UPGRADED": {
+        "title": "Reinforce+",
+        "description": "Deal {Damage} damage."
+    },
+    "EMIYAMOD-TRACE_SWORD": {
+        "title": "Trace, On",
+        "description": "Deal {Damage} damage. Exhaust."
+    },
+    "EMIYAMOD-TRACE_SWORD_UPGRADED": {
+        "title": "Trace, On+",
+        "description": "Deal {Damage} damage. Exhaust."
+    },
+    "EMIYAMOD-STRUCTURAL_ANALYSIS": {
+        "title": "Structural Analysis",
+        "description": "Gain {Block} block. Draw 1 card."
+    },
+    "EMIYAMOD-STRUCTURAL_ANALYSIS_UPGRADED": {
+        "title": "Structural Analysis+",
+        "description": "Gain {Block} block. Draw 1 card."
+    },
+    "EMIYAMOD-RINS_ADVICE": {
+        "title": "Rin's Advice",
+        "description": "Draw {Cards} cards."
+    },
+    "EMIYAMOD-RINS_ADVICE_UPGRADED": {
+        "title": "Rin's Advice+",
+        "description": "Draw {Cards} cards."
+    },
+    "EMIYAMOD-GUARD": {
+        "title": "Guard",
+        "description": "Gain {Block} block."
+    },
+    "EMIYAMOD-GUARD_UPGRADED": {
+        "title": "Guard+",
+        "description": "Gain {Block} block."
+    }
+}
